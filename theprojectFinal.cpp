@@ -1,16 +1,3 @@
-/*
-    Group members       ID
-    1. Abrham Abebe     RCD/3448/2013
-    2. Amir Yasin       RCD/3451/2013
-    3. Bereket Legesse  RCD/3453/2013
-    4. Kalab Bzuayehu   RCD/3467/2013
-    5. Kemerya Zeynu    RCD/3471/2013
-    6. Medina Fejru     RCD/3477/2013
-    7. Tsion Tamru      RCD/1944/2011
-
-
-    Note: if some features don't work it may be because of we used linux Os while writing and checking the code.
-*/
 
 
 //this program is a frame work in which the full program is
